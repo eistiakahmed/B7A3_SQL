@@ -236,6 +236,4 @@ SELECT column_name FROM information_schema.columns WHERE table_name = 'users';
 
 🔗 **GitHub Repository:** [B7A3_SQL](https://github.com/eistiakahmed/B7A3_SQL.git)
 
-Created as a comprehensive database design and SQL assignment submission demonstrating mastery of relational database concepts and advanced query techniques.
-
 ---
